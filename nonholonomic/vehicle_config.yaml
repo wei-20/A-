@@ -1,0 +1,12 @@
+#length: 0.8 # m
+#width: 0.4 # m
+length: 2.15 # m
+width: 1.75 # m
+wheelbase: 0.6 # m
+axis_length: 0.3 # m
+velocity_range: [-5.0, 5.0] # m/s
+steer_range: [-45.0, 45.0] # degree
+acceleration_range: [-5.0, 5.0] # m/s^2
+v_steer_range: [-140.0, 140.0] # degree/s
+dt: 0.1 # s
+steps_per_move: 5

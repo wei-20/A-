@@ -1,0 +1,22 @@
+#test nonholonomic
+
+#start: [30.0, 60.0, 180.0] # [m, m, degree] test backward no collision
+#goal: [35.0, 50.0, 270.0] # [m, m]
+
+start: [13.5, 25.5, 0.0] # [m, m, degree] test turning
+goal: [14.0, 49.0, 0.0]
+
+#start: [24.0, 15.0, 0.0] # [m, m, degree] test collision
+#goal: [70.0, 15.0,270.0] # [m, m]
+
+#start: [10.0, 9.0, 0.0] # [m, m, degree] test backward straight
+#goal: [29.9, 9.0, 0.0]
+
+#start: [14.0, 48.0, 0.0]
+#goal: [60.0, 55.0, 180.0]
+
+#test reeds_shepp
+#start: [20.0, 9.0, 0.0] #failed 20000 succ 27635
+#goal: [40.0, 9.0, 0.0]
+
+
