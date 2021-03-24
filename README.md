@@ -1,2 +1,3 @@
 # modified A*
-traditional A* considering the nonholonomic constraint
+<python>
+traditional A* considering the nonholonomic constraint(changing the method of expanding child nodes)
